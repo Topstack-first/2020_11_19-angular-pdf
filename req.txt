@@ -1,0 +1,43 @@
+We are a company specialized in the field of E-commerce & Logistics looking for a freelance to realize a small web application to generate labels with Code-128 barcode in PDF format.
+
+Realized a small web application to generate labels with Code-128 barcode in PDF format.The application must be provided with the following data:
+- Language (FR or EN)
+- company_name
+- company_address
+- company_ postcode
+- company_city
+- company_ country
+- warehouse _name
+- warehouse _address
+- warehouse _ postcode
+- warehouse _city
+- warehouse _ country
+- number_of_boxes
+- boxe_ barcode (a bar code for each box)
+The application will then generate a PDF with the bar codes and information for each box.
+
+The technologies to be mastered are:
+- Angular
+- HTML CSS
+- Bootstrap
+- Jquery / Javascript
+
+We have other missions planned after this one so the possibility of renewing the collaboration afterwards.
+
+Please do not hesitate to contact us for more information if you are interested.
+
+
+TechnoFuture
+Rue Cyriel Buysse 4
+Anderlecht
+1070
+BE
+
+FUTURE INTERNATIONAL IMPORT
+Amazon Fulfillment Center
+Parc des Portes de Senlis
+Senlis CEDEX
+60452
+France
+
+FBA15DBQV4KTU000003
